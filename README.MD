@@ -4,6 +4,7 @@
 * [Главная](https://github.com/WrapAndKit/testing_itmo_2026/tree/main)
 * [Вспомогательный материал](https://github.com/WrapAndKit/testing_itmo_2026/blob/main/support.md)
 * [Исходники](https://github.com/WrapAndKit/testing_itmo_2026/tree/main/src)
+* [Задание](https://github.com/WrapAndKit/testing_itmo_2026/tree/main/src/hometask)
 
 # Зачет
 Для успешного освоения курса необходимо:
